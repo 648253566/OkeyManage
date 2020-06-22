@@ -1,9 +1,0 @@
-D:\软件\OkeyManage\OkeyManage.Common\bin\Debug\netcoreapp3.1\OkeyManage.Common.deps.json
-D:\软件\OkeyManage\OkeyManage.Common\bin\Debug\netcoreapp3.1\OkeyManage.Common.dll
-D:\软件\OkeyManage\OkeyManage.Common\bin\Debug\netcoreapp3.1\OkeyManage.Common.pdb
-D:\软件\OkeyManage\OkeyManage.Common\obj\Debug\netcoreapp3.1\OkeyManage.Common.AssemblyInfoInputs.cache
-D:\软件\OkeyManage\OkeyManage.Common\obj\Debug\netcoreapp3.1\OkeyManage.Common.AssemblyInfo.cs
-D:\软件\OkeyManage\OkeyManage.Common\obj\Debug\netcoreapp3.1\OkeyManage.Common.dll
-D:\软件\OkeyManage\OkeyManage.Common\obj\Debug\netcoreapp3.1\OkeyManage.Common.pdb
-D:\软件\OkeyManage\OkeyManage.Common\obj\Debug\netcoreapp3.1\OkeyManage.Common.csprojAssemblyReference.cache
-D:\软件\OkeyManage\OkeyManage.Common\obj\Debug\netcoreapp3.1\OkeyManage.Common.csproj.CoreCompileInputs.cache
