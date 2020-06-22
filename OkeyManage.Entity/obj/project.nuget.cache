@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCAFSPW9VHJi0f2zH3Uy6wAAqfLvn9fWw3jx/isuC7ucBc9JVI/4Zhjk+nHj0moGeWuGTZiOMNjr1qr/+REikg==",
+  "success": true,
+  "projectFilePath": "D:\\软件\\OkeyManage\\OkeyManage.Entity\\OkeyManage.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yalla281\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

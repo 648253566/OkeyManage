@@ -1,0 +1,12 @@
+D:\软件\OkeyManage\OkeyManage.Dto\bin\Debug\netcoreapp3.1\OkeyManage.Dto.deps.json
+D:\软件\OkeyManage\OkeyManage.Dto\bin\Debug\netcoreapp3.1\OkeyManage.Dto.dll
+D:\软件\OkeyManage\OkeyManage.Dto\bin\Debug\netcoreapp3.1\OkeyManage.Dto.pdb
+D:\软件\OkeyManage\OkeyManage.Dto\obj\Debug\netcoreapp3.1\OkeyManage.Dto.AssemblyInfoInputs.cache
+D:\软件\OkeyManage\OkeyManage.Dto\obj\Debug\netcoreapp3.1\OkeyManage.Dto.AssemblyInfo.cs
+D:\软件\OkeyManage\OkeyManage.Dto\obj\Debug\netcoreapp3.1\OkeyManage.Dto.csproj.CoreCompileInputs.cache
+D:\软件\OkeyManage\OkeyManage.Dto\obj\Debug\netcoreapp3.1\OkeyManage.Dto.dll
+D:\软件\OkeyManage\OkeyManage.Dto\obj\Debug\netcoreapp3.1\OkeyManage.Dto.pdb
+D:\软件\OkeyManage\OkeyManage.Dto\obj\Debug\netcoreapp3.1\OkeyManage.Dto.csprojAssemblyReference.cache
+D:\软件\OkeyManage\OkeyManage.Dto\bin\Debug\netcoreapp3.1\OkeyManage.Common.dll
+D:\软件\OkeyManage\OkeyManage.Dto\bin\Debug\netcoreapp3.1\OkeyManage.Common.pdb
+D:\软件\OkeyManage\OkeyManage.Dto\obj\Debug\netcoreapp3.1\OkeyManage.Dto.csproj.CopyComplete
